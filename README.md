@@ -19,13 +19,13 @@ The Online Book Store is a simple website developed using HTML. It allows users 
 ## Project Structure
 
 Online-Book-Store/
-│── index.html
-│── books.html
-│── categories.html
-│── offers.html
-│── about.html
-│── contact.html
-│── README.md
+│ index.html
+│ books.html
+│ categories.html
+│ offers.html
+│ about.html
+│ contact.html
+│ README.md
 
 ## Pages Description
 
